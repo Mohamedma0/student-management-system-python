@@ -1,0 +1,17 @@
+Student Management System
+
+About :
+This is a simple project I built while learning Python and OOP.
+It helps manage students and their grades using a console program.
+
+What it does :
+* Add students
+* Add grades
+* Show all students
+* Find the top student
+
+Why I made it :
+I wanted to practice OOP concepts like inheritance and abstraction in a real example.
+
+Run the file using Python:
+python student_management_system.py
